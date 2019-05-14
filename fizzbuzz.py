@@ -10,5 +10,6 @@ def fizzbuzz():
 
 
 
-     if __name__ == 'main':
-         filter()
+if __name__ == '__main__':
+         fizzbuzz()
+         
