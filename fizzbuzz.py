@@ -7,3 +7,8 @@ def fizzbuzz():
         else:
 
         print(i)
+
+
+
+     if __name__ == 'main':
+         filter()
